@@ -1,0 +1,17 @@
+{
+  "ehr_logistic": {
+    "mean": 0.9448,
+    "lo": 0.8698,
+    "hi": 0.9977
+  },
+  "twin_physiology": {
+    "mean": 0.9759,
+    "lo": 0.9263,
+    "hi": 1.0
+  },
+  "hybrid_twin_ml": {
+    "mean": 0.937,
+    "lo": 0.8527,
+    "hi": 0.9938
+  }
+}
